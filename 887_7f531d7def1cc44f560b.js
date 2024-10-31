@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkCurrencyTracker=self.webpackChunkCurrencyTracker||[]).push([[887],{1887:(r,e,c)=>{c.r(e),c.d(e,{BankCard:()=>a});var n=c(4848),a=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("h1",{children:"Bank card Page"})})}}}]);
+//# sourceMappingURL=887_7f531d7def1cc44f560b.js.map
