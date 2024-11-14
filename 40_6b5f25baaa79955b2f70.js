@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkCurrencyTracker=self.webpackChunkCurrencyTracker||[]).push([[40],{9040:(r,e,c)=>{c.r(e),c.d(e,{Contacts:()=>s});var n=c(4848),s=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("h1",{children:"Contacts Page"})})}}}]);
+//# sourceMappingURL=40_6b5f25baaa79955b2f70.js.map
